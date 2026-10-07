@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+.vite/
+coverage/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+*.log
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
